@@ -1,0 +1,1 @@
+<script  src="{{ asset('files') }}/assets/js/modal.js"></script>
